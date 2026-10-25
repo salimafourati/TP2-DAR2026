@@ -49,7 +49,7 @@ TP2-DAR2026/
 │   └── SharedPackage/
 │       └── Operation.java
 │
-├── captures/
+├── screenshots/
 │   ├── serveur.png
 │   ├── client.png
 │   └── resultat.png
